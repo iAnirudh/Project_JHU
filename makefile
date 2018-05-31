@@ -1,5 +1,5 @@
 all:	README.md
-README.MD:	
+README.md:	
  guessinggame.sh
 	echo "#COURSE PROJECT">README.md
 	echo -n "\n Make date: ">>README.md
