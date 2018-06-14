@@ -1,10 +1,10 @@
 
- 	# COURSE PROJECT
+  # COURSE PROJECT
   
   
- 	## Make date: date>>README.md
+ ## Make date: date>>README.md
  
  
- ## Total lines of code:
+ ## Total lines of code: 
  
  
