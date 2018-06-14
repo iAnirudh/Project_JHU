@@ -1,10 +1,11 @@
-
-  # Learning Unix: A Course by Johns Hopkins University
+```
+all:	README.md
+ README.md:	
+ guessinggame.sh
+ 	echo "#COURSE PROJECT">README.md
+ 	echo -n "\n Make date: ">>README.md
+ 	date>>README.md
+ 	echo -n "\n Total lines of code:" >> README.md
   
-  
- ## Make date: 'date>>README.md'
- 
- 
- ## Total lines of code: 
- 
+  ```
  
